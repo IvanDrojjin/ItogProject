@@ -20,3 +20,5 @@
 
 
 ![ItogProject master  commits](Commits.JPG)
+
+![ItogProject master  Алгоритм ](Strings3.drawio)
