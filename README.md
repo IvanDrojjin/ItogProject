@@ -19,4 +19,4 @@
 - [“Russia”, “Denmark”, “Kazan”] → []  
 
 
-![ItogProject master  commits](Commits.jpg)
+![ItogProject master  commits](Commits.JPG)
